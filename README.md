@@ -64,6 +64,7 @@ npm run test
 ```
 ## Technologies used:
 - Node.js
+- Jest
 - Bootstrap
 - JavaScript
 - HTML & CSS
