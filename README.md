@@ -63,6 +63,11 @@ npm install
 npm run test
 ```
 
+## Screenshot
+
+<img width="1534" alt="Screenshot 2024-01-24 at 5 07 22 pm" src="https://github.com/Samirah-M/Team-Profile-Generator/assets/143946932/65563a76-3cdb-45f3-ba17-92bc3244ccf8">
+
+
 ## Author
 
 👤 **Samirah-M**
