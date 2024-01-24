@@ -62,6 +62,11 @@ npm install
 ```sh
 npm run test
 ```
+## Technologies used:
+- Node.js
+- Bootstrap
+- JavaScript
+- HTML & CSS
 
 ## Screenshot
 
